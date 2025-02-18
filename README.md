@@ -4,10 +4,12 @@ Overview
 This project is a comprehensive data analysis of Super Store Sales, performed entirely in Excel. The analysis provides insights into sales trends, category contributions, regional performance, and profit margins using interactive charts and a dynamic dashboard.
 
 Dataset
-The dataset consists of three sheets:
+The dataset consists of five sheets:
 Orders: Contains details about sales, including order date, ship date, region, category, sub-category, sales amount, discount, profit, and other relevant columns.
 Returns: Information about returned orders.
 Users: Customer data including user IDs and other demographic information.
+Sheet3: Contains Pivot tables 
+Dashboard: Interactive dashboard
 
 Key Insights
 
