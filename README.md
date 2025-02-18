@@ -17,6 +17,8 @@ Revenue Trends: Identified monthly and yearly sales trends to observe seasonalit
 Category Contribution: Analyzed sales distribution across product categories and sub-categories to highlight top-performing products.
 Regional Performance: Evaluated sales and profit by region to identify the most profitable and underperforming regions.
 Profit Margins: Calculated average profit margins to assess overall business health and pricing effectiveness.
+There is no product purchase cost given so we cant give the accurate profit margin but as per the given data formula, I have used is 
+GPM(%) = SALES - SHIPMENT COST /SALES * 100 (refer to sheet3)
 
 Dashboard Features
 
